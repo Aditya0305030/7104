@@ -86,10 +86,9 @@ The dataset contains information about bank clients, campaign details, and subsc
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the scripts for EDA and modeling:
+3. Run the scripts for  modeling:
    ```bash
-   python eda.py
-   python model.py
+   python main.ipynb
    ```
 
 ---
@@ -99,20 +98,21 @@ The dataset contains information about bank clients, campaign details, and subsc
 📂 Bank-Client-Analysis
 ├── 📄 README.md (Project Documentation)
 ├── 📄 requirements.txt (Dependencies)
-├── 📄 eda.py (Exploratory Data Analysis Script)
-├── 📄 model.py (Predictive Modeling Script)
+├── 📄 main.ipynb (Predictive Modeling Script)
 ├── 📊 dashboards/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-├── 📄 presentation.pptx (PowerPoint Presentation)
+│   ├── dashboard 1.png
+│   ├── dashboard 2.png
+├── 📄 Bank Client Data Analysis and Visualization.pptx (PowerPoint Presentation)
 ├── 📂 data/
 │   ├── test.csv (Dataset)
 ```
 
 ---
 
-### **Contributors**
-- **Your Name** (Email: your-email@example.com)
+## 📋 Authors
+- Prabhat Kumar Ganguli
+- Aditya
+- Nikhil kumar
 
 ---
 
