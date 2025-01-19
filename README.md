@@ -84,7 +84,7 @@ The dataset contains aggregated subscription data with the following key columns
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Aditya0305030/7104
    ```
 2. Install required libraries:
    ```bash
