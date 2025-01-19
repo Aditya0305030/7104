@@ -82,11 +82,7 @@ The dataset contains information about bank clients, campaign details, and subsc
    ```bash
    git clone https://github.com/Aditya0305030/7104
    ```
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the scripts EDA and modeling:
+2. Run the scripts EDA and modeling:
    ```bash
    power bi hackathon.pbix
    python main.ipynb
@@ -98,7 +94,6 @@ The dataset contains information about bank clients, campaign details, and subsc
 ```
 📂 Bank-Client-Analysis
 ├── 📄 README.md (Project Documentation)
-├── 📄 requirements.txt (Dependencies)
 ├── 📄 hackathon.pbix (Exploratory Data Analysis Script)
 ├── 📄 main.ipynb (Predictive Modeling Script)
 ├── 📊 dashboards/
