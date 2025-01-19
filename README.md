@@ -102,8 +102,8 @@ The dataset contains information about bank clients, campaign details, and subsc
 ├── 📄 hackathon.pbix (Exploratory Data Analysis Script)
 ├── 📄 main.ipynb (Predictive Modeling Script)
 ├── 📊 dashboards/
-│   ├── dashboard 1.png
-│   ├── dashboard 2.png
+│   ├── dashboard 1.jpg
+│   ├── dashboard 2.jpg
 ├── 📄 Bank Client Data Analysis and Visualization.pptx (PowerPoint Presentation)
 ├── 📂 data/
 │   ├── test.csv (Dataset)
